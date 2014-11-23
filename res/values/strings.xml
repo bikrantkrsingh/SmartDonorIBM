@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Smart Donor</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="item">
+        <item>Clothes</item>
+        <item>Stationary</item>
+        <item>Medicine</item>
+        <item>Money</item>
+        <item>Others</item>
+    </string-array>
+    
+    <string-array name="validity">
+        <item>2 Min(For Demo)</item>
+        <item>7 Days</item>
+        <item>15 Days</item>
+        <item>30 Days</item>
+    </string-array>
+
+</resources>
